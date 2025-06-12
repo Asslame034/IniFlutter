@@ -1,16 +1,38 @@
-# todo
+# Clario - TodoApp
 
-A new Flutter project.
+## a. Nama  
+**Muhammad Nauval Aslam**
 
-## Getting Started
+## b. Judul Project  
+**TodoApp dengan nama aplikasi: Clario**
 
-This project is a starting point for a Flutter application.
+## c. Deskripsi Fungsionalitas Aplikasi  
+Clario adalah aplikasi Todo List berbasis Flutter yang dirancang untuk membantu pengguna mengatur dan mengelola tugas harian mereka secara efisien. Fitur-fitur utama dari aplikasi ini meliputi:
 
-A few resources to get you started if this is your first Flutter project:
+- Register akun baru dan login ke dalam aplikasi  
+- Melihat daftar tugas (ToDo)  
+- Menambahkan tugas dengan menentukan:  
+  - Nama tugas  
+  - Deadline (tanggal)  
+  - Kategori  
+- Mengedit tugas yang sudah dibuat  
+- Memindahkan tugas ke sampah  
+- Menghapus tugas secara permanen  
+- Memulihkan tugas dari sampah  
+- Menandai tugas sebagai selesai  
+- Logout dari akun dan kembali ke halaman login  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## d. Teknologi yang Digunakan  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** – Framework utama untuk pengembangan aplikasi mobile  
+- **Firebase Authentication** – Untuk sistem login dan register pengguna  
+- **Firebase Cloud Firestore** – Sebagai database untuk menyimpan data tugas  
+- **Google Cloud** – Infrastruktur backend  
+- **Desain UI** – Menggunakan pendekatan minimalis, sederhana, dan fungsional  
+
+## e. Cara Menjalankan Aplikasi  
+
+1. Clone repository ini:
+   ```bash
+   git clone https://github.com/username/clario-todoapp.git
+   cd clario-todoapp
