@@ -30,9 +30,21 @@ Clario adalah aplikasi Todo List berbasis Flutter yang dirancang untuk membantu 
 - **Google Cloud** – Infrastruktur backend  
 - **Desain UI** – Menggunakan pendekatan minimalis, sederhana, dan fungsional  
 
-## e. Cara Menjalankan Aplikasi  
+## e. Cara Menjalankan Aplikasi
 
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/clario-todoapp.git
-   cd clario-todoapp
+- Jalankan aplikasi Flutter seperti biasa (`flutter run`)
+- Pilih **Register** jika belum memiliki akun
+- Login menggunakan **email dan password**
+- Akses halaman daftar tugas (ToDo)
+- Tambahkan tugas dengan mengisi:
+  - Nama tugas
+  - Deadline (tanggal)
+  - Kategori
+- Edit tugas jika diperlukan
+- Hapus tugas (pindahkan ke sampah) atau pulihkan dari sampah
+- Checklist tugas jika sudah selesai
+- Logout untuk keluar dari akun dan kembali ke halaman login
+
+## f. Screenshot UI dan tampilan
+
+![Screenshot 2025-06-12 101200](https://github.com/user-attachments/assets/76a86042-fef0-442c-aad8-d8e3cd87c290)
